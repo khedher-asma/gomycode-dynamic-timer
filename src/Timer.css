@@ -1,0 +1,43 @@
+.border-container{
+    border:1px solid #00968c;
+    border-radius: 10px;
+    margin: 0 auto;
+    width: 20vw;
+}
+.counter{
+    text-align: center;
+    margin-top: 10rem;
+
+}
+.counter h3{
+    font-size: 65px;
+
+}
+.counter-description{
+    text-align: center;
+}
+.counter-description p{
+    margin: 0 1rem;
+    color:  #bbc2c3;
+
+
+}
+.btn-section{
+    margin-top: 4rem;
+    margin-bottom: 10rem;
+
+}
+.first-btn{
+    color:black;
+    margin-right: 0.5rem;
+    width: 8vw;
+}
+.second-btn{
+    color:black;
+    margin-left: 0.5rem;
+    width: 8vw;
+
+}
+Button{
+    color: #00968c;
+}
