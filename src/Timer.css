@@ -3,6 +3,7 @@
     border-radius: 10px;
     margin: 0 auto;
     width: 20vw;
+
 }
 .counter{
     text-align: center;
@@ -30,14 +31,25 @@
 .first-btn{
     color:black;
     margin-right: 0.5rem;
-    width: 8vw;
+    width: 6rem;
 }
 .second-btn{
     color:black;
     margin-left: 0.5rem;
-    width: 8vw;
+    width: 6rem;
 
 }
 Button{
     color: #00968c;
+}
+
+@media Screen and (max-width:1300px){
+    .border-container{
+        width: 30vw;
+    }
+}
+@media Screen and (max-width:768px){
+    .border-container{
+        width: 100vw;
+    }
 }
