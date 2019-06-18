@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/dynamic-timer/static/css/main.0d416dde.chunk.css",
+    "main.css": "/dynamic-timer/static/css/main.8ee4d013.chunk.css",
     "main.js": "/dynamic-timer/static/js/main.cdb0157d.chunk.js",
     "main.js.map": "/dynamic-timer/static/js/main.cdb0157d.chunk.js.map",
     "runtime~main.js": "/dynamic-timer/static/js/runtime~main.38089940.js",
@@ -8,9 +8,9 @@
     "static/js/2.2ccf09a4.chunk.js": "/dynamic-timer/static/js/2.2ccf09a4.chunk.js",
     "static/js/2.2ccf09a4.chunk.js.map": "/dynamic-timer/static/js/2.2ccf09a4.chunk.js.map",
     "index.html": "/dynamic-timer/index.html",
-    "precache-manifest.19bad94f768b81f7033ddb86c77116c6.js": "/dynamic-timer/precache-manifest.19bad94f768b81f7033ddb86c77116c6.js",
+    "precache-manifest.94beaa5a845c68443a5857ae95b2b9da.js": "/dynamic-timer/precache-manifest.94beaa5a845c68443a5857ae95b2b9da.js",
     "service-worker.js": "/dynamic-timer/service-worker.js",
-    "static/css/main.0d416dde.chunk.css.map": "/dynamic-timer/static/css/main.0d416dde.chunk.css.map",
+    "static/css/main.8ee4d013.chunk.css.map": "/dynamic-timer/static/css/main.8ee4d013.chunk.css.map",
     "static/media/logo.svg": "/dynamic-timer/static/media/logo.5d5d9eef.svg"
   }
 }
